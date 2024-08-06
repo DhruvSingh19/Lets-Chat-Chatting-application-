@@ -50,17 +50,17 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyABKZjPIuCejFbag2jluO9RiLfPoGbnDEY',
-    appId: '1:963322788122:android:621da3ec6798d7459254a3',
-    messagingSenderId: '963322788122',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'lets-chat-a5d43',
     storageBucket: 'lets-chat-a5d43.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAtfEGCestF2y4ML-KVSA_KnqChxAsula4',
-    appId: '1:963322788122:ios:82e18bf95dad92139254a3',
-    messagingSenderId: '963322788122',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'lets-chat-a5d43',
     storageBucket: 'lets-chat-a5d43.appspot.com',
     androidClientId: '963322788122-b74lpdpl40tpsf21bde6imk4601msgln.apps.googleusercontent.com',
