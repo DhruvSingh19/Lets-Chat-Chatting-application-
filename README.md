@@ -1,7 +1,16 @@
 # lets_chat
-A chatting application developed using Flutter framework. 
-Includes features like google sign in, real time update of profile picture and description, photos sharing, etc.
-Used Firebase for storing and retrieving essential data.
+A chatting application developed using Flutter framework and Firebase.
+Features:- 
+User Authentication
+Mutli-Media Support
+Emojis
+Read receipts
+User Profile Avatar
+Search Functionality
+Online Indicator
+Last Scene Indicator
+User friendly Interface
+
 ![Screenshot 2024-08-20 191519](https://github.com/user-attachments/assets/8e1bf5b2-fac8-4284-bab2-b980402c1048)
 
 ![Screenshot 2024-08-20 191530](https://github.com/user-attachments/assets/bcce11f9-5ad7-42c1-a93c-40d81abbfd8a)
